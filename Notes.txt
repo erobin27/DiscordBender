@@ -1,0 +1,3 @@
+- If user reacts with ❌ remove that reaction from player list
+
+- make it to where no duplicate reactions are allowed
